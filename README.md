@@ -5,9 +5,9 @@
 ## Features
 
 - Automatic Dependency updates
+- Automatic Build
 - Automatic Testing
-- Automatic Linting/ Code Standard Review
-- Automatic Build verification 
+- Automatic Review for Bugs (linting)
 - Automatic Deployments
 
 ## Demo
