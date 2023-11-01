@@ -22,4 +22,8 @@
 
 ## Summary
 
-CI CD allows developers to focus on what matters most - deliver high quality commits.
+CI/CD allows developers to focus on what matters most - delivering high quality commits.
+
+## Author 
+
+Matthew Woods <mattwoods9170@gmail.com>
